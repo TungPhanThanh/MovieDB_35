@@ -13,7 +13,7 @@
         <activity android:name=".screen.splash.IntroductionActivity" />
         <activity
             android:name="com.framgia.moviedb_35.screen.splash.SplashActivity"
-            android:theme="@style/SplashScreenTheme">\
+            android:theme="@style/SplashScreenTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
